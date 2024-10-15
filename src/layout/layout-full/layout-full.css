@@ -1,0 +1,15 @@
+#container {
+    width: 100%;
+}
+
+.box-content {
+    width: 70%;
+    min-width: 500px;
+}
+
+@media (max-width: 1024px) {
+    .box-content {
+        width: 100%; /* Tăng tỉ lệ phần trăm */
+        padding: 0 5px;
+    }
+}

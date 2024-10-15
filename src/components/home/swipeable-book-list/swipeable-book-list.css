@@ -1,0 +1,12 @@
+.swipe-container {
+    width: 100%;
+    display: flex;
+    gap: 32px;
+    overflow-x: auto;
+    scrollbar-color: transparent transparent;
+    user-select: none;
+}
+
+.swipe-container::-webkit-scrollbar {
+    
+}

@@ -1,0 +1,16 @@
+.section-content {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.banner {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
